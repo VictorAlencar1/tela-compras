@@ -1,0 +1,198 @@
+.principal {
+    background-color: pink;
+    height: 720px;
+}
+
+#foto {
+    margin-top: 60px;
+}
+
+.form {
+    display: flex;
+}
+
+h1 {
+    text-shadow:
+    -2px -2px 1px white;
+    margin-left: 150px;
+}
+
+.form0 {
+    margin-left: 450px;
+    margin-top: 70px;
+}
+
+.parte2 {
+    margin-left: 50px;
+}
+
+.botao {
+    margin-left: -325px;
+    margin-top: 50px;
+}
+
+.cancelar {
+    margin-left: 40px;
+}
+
+.form {
+    margin-top: 230px;
+    margin-left: -400px;
+    width: 738px;
+}
+
+.form1 {
+    margin-left: 35px;
+}
+
+.form2 {
+    margin-left: 88px;
+}
+
+.form3 {
+    margin-left: 120px;
+}
+
+.form4 {
+    margin-left: 97px;
+}
+
+.form6 {
+    margin-left: 80px;
+}
+
+.form7 {
+    margin-left: 120px;
+
+}
+
+img {
+    width: 350px;
+    height: 190px;
+    margin-top: 40px;
+    margin-bottom: -200px;
+    margin-left: -370px;
+}
+
+.tabela {
+    width: 800px;
+    margin-left: -442px;
+    margin-top: -50px;
+}
+
+.prod {
+    margin-top: 50px;
+    margin-left: -1000px;
+    height: 30px;
+    width: 180px;
+    text-align: center;
+}
+
+.quant {
+    height: 30px;
+    width: 45px;
+    margin-left: -360px;
+    text-align: center;
+}
+
+.valor {
+    height: 30px;
+    width: 100px;
+    margin-left: -120px;
+    margin-top: -60px;
+    text-align: center;
+}
+
+.select {
+    margin-top: -30px;
+}
+
+.numero {
+    margin-top: -30px;
+}
+
+.valor1 {
+    margin-top: -27px;
+    margin-left: 310px;
+}
+
+.rodape {
+    background-color: rgb(248, 136, 155);
+    margin-top: 14px;
+    height: 210px;
+}
+
+.face {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: -150px;
+    margin-left: -300px;
+}
+
+.insta {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: -200px;
+    margin-left: -300px;
+}
+
+.email {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: -380px;
+    margin-left: 250px;
+}
+
+.fone {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: -440px;
+    margin-left: 250px;
+}
+
+.faceuser {
+    margin-left: -130px;
+    margin-top: 5px;
+}
+
+.instauser {
+    margin-left: -130px;
+    margin-top: -20px;
+}
+
+.gmail {
+    margin-left: 500px;
+    margin-top: -112px;
+    margin-bottom: 140px;
+}
+
+.telefone {
+    margin-left: 430px;
+    margin-top: -145px;
+    margin-bottom: 140px;
+}
+
+.aviso {
+    margin-top: -100px;
+    margin-left: 150px;
+}
+
+footer {
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+#secundaria {
+    border: solid black 2px;
+    width: 820px;
+    margin-left: 390px;
+    margin-top: 20px;
+}
+.botao {
+    margin-left: -400px;
+    margin-bottom: 20px;
+}
